@@ -1,0 +1,14 @@
+/home/b124733/projects/mysqlExample/bin/Debug/net8.0/mysqlExample
+/home/b124733/projects/mysqlExample/bin/Debug/net8.0/mysqlExample.deps.json
+/home/b124733/projects/mysqlExample/bin/Debug/net8.0/mysqlExample.runtimeconfig.json
+/home/b124733/projects/mysqlExample/bin/Debug/net8.0/mysqlExample.dll
+/home/b124733/projects/mysqlExample/bin/Debug/net8.0/mysqlExample.pdb
+/home/b124733/projects/mysqlExample/obj/Debug/net8.0/mysqlExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/b124733/projects/mysqlExample/obj/Debug/net8.0/mysqlExample.AssemblyInfoInputs.cache
+/home/b124733/projects/mysqlExample/obj/Debug/net8.0/mysqlExample.AssemblyInfo.cs
+/home/b124733/projects/mysqlExample/obj/Debug/net8.0/mysqlExample.csproj.CoreCompileInputs.cache
+/home/b124733/projects/mysqlExample/obj/Debug/net8.0/mysqlExample.dll
+/home/b124733/projects/mysqlExample/obj/Debug/net8.0/refint/mysqlExample.dll
+/home/b124733/projects/mysqlExample/obj/Debug/net8.0/mysqlExample.pdb
+/home/b124733/projects/mysqlExample/obj/Debug/net8.0/mysqlExample.genruntimeconfig.cache
+/home/b124733/projects/mysqlExample/obj/Debug/net8.0/ref/mysqlExample.dll
