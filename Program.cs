@@ -27,7 +27,7 @@ try
     using var myReader = myCommand.ExecuteReader();
     while (myReader.Read())
     {
-        var id = myReader.GetInt32("FirstName");
+        var id = myReader.GetString("FirstName");
         var name = myReader.GetString("LastName");
 
         Console.WriteLine(id);
