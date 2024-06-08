@@ -9,7 +9,7 @@ Console.WriteLine("Hello, World!");
 MySql.Data.MySqlClient.MySqlConnection myConnection;
 string myConnectionString;
 //set the correct values for your server, user, password and database name
-myConnectionString = "server=127.0.0.1;uid=b124733_b124733;pwd=<?A=sv@g~yq2%pBg;database=b124733_db";
+myConnectionString = "server=127.0.0.1;uid=b124733_dbuser;pwd=<?A=sv@g~yq2%pBg;database=b124733_db";
 
 try
 {
